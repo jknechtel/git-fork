@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Credit to github.com/localmed/git-jira-flow for this project structure.
 
 if [ "$DEBUG" = "yes" ]; then
